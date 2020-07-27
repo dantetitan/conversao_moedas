@@ -1,6 +1,8 @@
 # conversao_real
 
-A new Flutter application.
+The purpose of the application is to convert currencies (Real, Dollar and Euro). The application uses the HG Finance API to keep currency values ​​updated and perform conversion based on the stock exchange.
+
+This is my first Flutter project using an API, and although it is simple, I am very happy with the result!
 
 ## Getting Started
 
