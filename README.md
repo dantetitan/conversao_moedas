@@ -1,4 +1,4 @@
-# conversao_real
+# conversao_moedas
 
 The purpose of the application is to convert currencies (Real, Dollar and Euro). The application uses the HG Finance API to keep currency values ​​updated and perform conversion based on the stock exchange.
 
